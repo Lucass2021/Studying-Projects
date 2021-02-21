@@ -14,19 +14,7 @@
 
 ## 📝 Description
 
->💻 
-
-
----
-
-## 💻 Project
-
-* <b>I</b>:
-
-<h1 align="center">
-    <img src="read00.PNG"/>
-</h1>
-
+>💻 This is my personal checkpoint regard my studies.
 
 
 ---
@@ -35,6 +23,7 @@
 This project was developed with the following technologies:
 * VS Code;
 * HTML;
+* CSS;
 * JavaScript.
 
 
@@ -50,7 +39,9 @@ This project is currently in progress.
 
 ## :heavy_check_mark: To do list
 
-- 
+- Finish JavaScript basic classes
+- Finish Music Player
+- Finish Movie Interface
 
 ---
 
