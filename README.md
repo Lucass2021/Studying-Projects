@@ -6,7 +6,6 @@
 # Summary
 
 - [Description](#📝-Description)
-- [Project](#💻-Project)
 - [Technologies](#🚀-Technologies)
 - [Project Stats](#🎯-Project-Stats)
 
