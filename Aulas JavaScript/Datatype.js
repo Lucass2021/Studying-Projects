@@ -1,7 +1,7 @@
 //String//
 
 console.log("Letras são Strings");
-console.log("Números entre aspas também, 2021");
+console.log("Tudo entre aspas também, 2021 ou true");
 
 console.log(`Isto é uma expressão ${1 + 1}`);
 console.log(1 + 1);
